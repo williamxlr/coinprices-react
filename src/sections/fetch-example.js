@@ -3,7 +3,6 @@ import ListGroup from 'react-bootstrap/ListGroup';
 import Card from 'react-bootstrap/Card';
 import Navbar from 'react-bootstrap/Navbar';
 
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../App.css';
 
