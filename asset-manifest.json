@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/coin-prices-react/static/css/main.b062d5e2.chunk.css",
-    "main.js": "/coin-prices-react/static/js/main.83899f39.chunk.js",
-    "main.js.map": "/coin-prices-react/static/js/main.83899f39.chunk.js.map",
-    "runtime-main.js": "/coin-prices-react/static/js/runtime-main.9a12a58a.js",
-    "runtime-main.js.map": "/coin-prices-react/static/js/runtime-main.9a12a58a.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/coin-prices-react/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.7a551fd7.chunk.js": "/coin-prices-react/static/js/2.7a551fd7.chunk.js",
-    "static/js/2.7a551fd7.chunk.js.map": "/coin-prices-react/static/js/2.7a551fd7.chunk.js.map",
-    "index.html": "/coin-prices-react/index.html",
-    "precache-manifest.19de7b92b2bdcaa47f19448305e28bc3.js": "/coin-prices-react/precache-manifest.19de7b92b2bdcaa47f19448305e28bc3.js",
-    "service-worker.js": "/coin-prices-react/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/coin-prices-react/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.b062d5e2.chunk.css.map": "/coin-prices-react/static/css/main.b062d5e2.chunk.css.map",
-    "static/js/2.7a551fd7.chunk.js.LICENSE.txt": "/coin-prices-react/static/js/2.7a551fd7.chunk.js.LICENSE.txt"
+    "main.css": "/coinprices-react/static/css/main.b062d5e2.chunk.css",
+    "main.js": "/coinprices-react/static/js/main.9cbb233c.chunk.js",
+    "main.js.map": "/coinprices-react/static/js/main.9cbb233c.chunk.js.map",
+    "runtime-main.js": "/coinprices-react/static/js/runtime-main.3b8a7a2a.js",
+    "runtime-main.js.map": "/coinprices-react/static/js/runtime-main.3b8a7a2a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/coinprices-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7a551fd7.chunk.js": "/coinprices-react/static/js/2.7a551fd7.chunk.js",
+    "static/js/2.7a551fd7.chunk.js.map": "/coinprices-react/static/js/2.7a551fd7.chunk.js.map",
+    "index.html": "/coinprices-react/index.html",
+    "precache-manifest.30ec0f2d44d5e77b2eac0fa589184b01.js": "/coinprices-react/precache-manifest.30ec0f2d44d5e77b2eac0fa589184b01.js",
+    "service-worker.js": "/coinprices-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/coinprices-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b062d5e2.chunk.css.map": "/coinprices-react/static/css/main.b062d5e2.chunk.css.map",
+    "static/js/2.7a551fd7.chunk.js.LICENSE.txt": "/coinprices-react/static/js/2.7a551fd7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a12a58a.js",
+    "static/js/runtime-main.3b8a7a2a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.7a551fd7.chunk.js",
     "static/css/main.b062d5e2.chunk.css",
-    "static/js/main.83899f39.chunk.js"
+    "static/js/main.9cbb233c.chunk.js"
   ]
 }
