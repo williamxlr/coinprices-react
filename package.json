@@ -2,7 +2,7 @@
   "name": "coinprices-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://williamxlr.github.io/coinprices-react/",
+  "homepage": "https://williamxlr.github.io/coinprices-react/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
